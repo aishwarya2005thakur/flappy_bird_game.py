@@ -1,0 +1,2 @@
+alternative to pygame is making the game in flutter 
+python currently doesnt support teb pygame libreary 
